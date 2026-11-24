@@ -1,0 +1,4 @@
+x=5
+y=x
+x="hi"
+print(y) #?
